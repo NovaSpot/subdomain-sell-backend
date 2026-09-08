@@ -1,0 +1,7 @@
+{
+  //gemini said we should need to add this to .gitignore.
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}

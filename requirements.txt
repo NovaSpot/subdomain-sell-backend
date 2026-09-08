@@ -1,0 +1,23 @@
+# FASTAPI
+fastapi
+uvicorn
+
+# DATA VALIDATION
+pydantic
+
+# LOGGING
+loguru
+
+# TESTING
+pytest
+pytest-asyncio
+
+# DATABASE
+sqlmodel
+alembic
+SQLAlchemy
+asyncpg
+
+# SECURITY
+PyJWT
+bcrypt

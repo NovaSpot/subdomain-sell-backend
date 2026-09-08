@@ -6,6 +6,17 @@ from sqlalchemy.orm import sessionmaker
 
 load_dotenv()
 
+"""
+
+psycopg2 is the most popular PostgreSQL database adapter for the 
+Python programming language. it support async, and has a stable codebase.
+alternative are:
+    - asyncpg
+    - aiopg
+
+"""
+
+
 DATABASE_URL = os.getenv("DATABASE_URL")
 
 # Engine to talk to PostgreSQL

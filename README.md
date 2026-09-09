@@ -1,4 +1,6 @@
 # subdomain-sell-backend
+the backend for a webapp that sells subdomains, using FastAPI
+
 
 <!-- This is a single-line comment -->
 

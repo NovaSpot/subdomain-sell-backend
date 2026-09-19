@@ -14,6 +14,18 @@ alternative are:
     - asyncpg
     - aiopg
 
+in relational dbs, we dont create tables for each users as it is 
+memory intensive and not scalable. instead we create a single table.
+
+we should need tables like:
+    - users
+    - profiles
+    - domains
+    
+
+note that these are plural, as we will have multiple users and profiles. 
+
+
 """
 
 
